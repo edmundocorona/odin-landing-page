@@ -1,1 +1,12 @@
 # odin-landing-page
+
+## Credit for images
+- Foto de <a href="https://unsplash.com/es/@metart?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Guillermo Pérez</a> en <a href="https://unsplash.com/es/fotos/hombre-de-pie-delante-del-edificio-iluminado-por-la-noche-QllYaCzy69Q?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+- Foto de <a href="https://unsplash.com/es/@5tep5?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Aleksandr Popov</a> en <a href="https://unsplash.com/es/fotos/ciudad-durante-la-noche-rl4RzSz9WI0?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+- Foto de <a href="https://unsplash.com/es/@joshhild?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Josh Hild</a> en <a href="https://unsplash.com/es/fotos/persona-de-pie-en-el-borde-del-edificio-nZI5bkGrp4I?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+- Foto de <a href="https://unsplash.com/es/@elliot_ra8?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Elliot Andrews</a> en <a href="https://unsplash.com/es/fotos/edificio-alto-en-blanco-y-negro-VvjGRkw3q0c?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+- Foto de <a href="https://unsplash.com/es/@messlifer?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Nikita Karimov</a> en <a href="https://unsplash.com/es/fotos/catedral-de-san-basilio-lvJZhHOIJJ4?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+- Foto de <a href="https://unsplash.com/es/@nikolayv?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Nikolay Vorobyev</a> en <a href="https://unsplash.com/es/fotos/catedral-de-san-basilio-rusia-QJ2HGuSSQz0?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+- Foto de <a href="https://unsplash.com/es/@louisk_?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Louis. K</a> en <a href="https://unsplash.com/es/fotos/fotografia-de-lapso-de-tiempo-de-la-carretera-cerca-de-la-torre-de-elizabeth-Dva5Y2KPpyM?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+- Foto de Mo Eid: https://www.pexels.com/es-es/foto/ciudad-puesta-de-sol-panorama-urbano-edificio-5931854/
+- Foto de Alex Qian: https://www.pexels.com/es-es/foto/torre-iluminada-al-lado-del-edificio-2304895/
