@@ -1,0 +1,64 @@
+body {
+  font-family: 'Roboto', sans-serif;
+}
+
+.header,
+.dark-blue,
+.footer {
+  background-color: #1F2937;
+  color: #F9FAF8;
+}
+
+.card h1 {
+  font-size: 48px;
+  font-weight: 900;
+}
+
+.header ul {
+  list-style-type: none;
+}
+
+.header a {
+  text-decoration: none;
+  font-size: 18px;
+  color: #E5E7EB;
+}
+
+.card p {
+  color: #E5E7EB;
+  font-size: 18px;
+}
+
+.title-site {
+  font-size: 24px;
+}
+
+.card button,
+.light-blue,
+.light-blue button {
+  background-color: #3882F6;
+  color: #F9FAF8;
+}
+
+.light-blue p {
+  color: #E5E7EB;
+}
+
+.section h2 {
+  font-size: 36px;
+  font-weight: 900;
+}
+
+.white {
+  color: #1F2937;
+}
+
+.gray {
+  background-color: #E5E7EB;
+  color: #1F2937;
+}
+
+.gray em {
+  font-size: 36px;
+  font-weight: 100;
+}
